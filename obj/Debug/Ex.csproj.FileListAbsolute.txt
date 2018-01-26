@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\Ex\Ex\bin\Debug\Ex.exe.config
+c:\users\admin\source\repos\Ex\Ex\bin\Debug\Ex.exe
+c:\users\admin\source\repos\Ex\Ex\bin\Debug\Ex.pdb
+c:\users\admin\source\repos\Ex\Ex\obj\Debug\Ex.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Ex\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Ex\Ex\obj\Debug\Ex.exe
+c:\users\admin\source\repos\Ex\Ex\obj\Debug\Ex.pdb
